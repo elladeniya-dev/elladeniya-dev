@@ -49,16 +49,17 @@ const user = {
 
 <br />
 
-### 🛠️ ARSENAL
+<h3 align="center">🛠️ ARSENAL</h3>
 <div align="center">
-  ![My Skills](https://skillicons.dev/icons?i=js,react,vue,java,spring,cs,dotnet,php,html,css,mysql,mongodb,git,vscode,postman,docker,linux&theme=dark)
+  <img src="https://skillicons.dev/icons?i=js,react,vue,java,spring,cs,dotnet,php,html,css,mysql,mongodb,git,vscode,postman,docker,linux&theme=dark" alt="My Skills" />
 </div>
 
-### 📊 PERFORMANCE METRICS
+<br />
+
+<h3 align="center">📊 PERFORMANCE METRICS</h3>
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99)
+  <img src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99" height="180" alt="Top Langs" />
 </div>
 
 <br />
