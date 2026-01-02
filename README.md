@@ -74,4 +74,6 @@ const user = {
 
 <h3 align="center">🐍 CONTRIBUTION GRID</h3> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> </picture> </div>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:00FF99,100:8A2BE2%26height%3D80%26section%3Dfooter" /> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:8A2BE2&height=80&section=footer" width="100%" alt="Footer Wave" />
+</div>
