@@ -49,13 +49,17 @@ const user = {
 
 <br />
 
-<h3 align="center">🛠️ ARSENAL</h3> <div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,react,vue,java,spring,cs,dotnet,php,html,css,mysql,mongodb,git,vscode,postman,docker,linux%26theme%3Ddark" /> </div>
+### 🛠️ ARSENAL
+<div align="center">
+  ![My Skills](https://skillicons.dev/icons?i=js,react,vue,java,spring,cs,dotnet,php,html,css,mysql,mongodb,git,vscode,postman,docker,linux&theme=dark)
+</div>
 
-<br />
-
-<h3 align="center">📊 PERFORMANCE METRICS</h3> <div align="center"> <table> <tr> <td> <img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Delladeniya-dev%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF99%26icon_color%3D8A2BE2" /> </td> <td> <img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Delladeniya-dev%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF99" /> </td> </tr> </table> </div>
-
-<div align="center"> <img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Delladeniya-dev%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D8A2BE2%26fire%3D00FF99%26currStreakLabel%3D00FF99" /> </div>
+### 📊 PERFORMANCE METRICS
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99)
+</div>
 
 <br />
 
