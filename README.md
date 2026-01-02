@@ -35,9 +35,13 @@ const user = {
 </div>
 
 <h3 align="center">📊 PERFORMANCE METRICS</h3>
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
