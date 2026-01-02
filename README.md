@@ -58,8 +58,16 @@ const user = {
 
 <h3 align="center">📊 PERFORMANCE METRICS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99" height="180" alt="Top Langs" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2" height="180" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99" height="180" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
