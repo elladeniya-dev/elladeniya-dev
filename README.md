@@ -42,30 +42,33 @@ const user = {
 
 ```
 ---
-
-🚧 Currently Building
-
-🔹 Full-stack web applications using React + Spring Boot
-
-🔹 Scalable backend systems with REST APIs
-
-🔹 Improving system design and problem-solving skills
-
-🔹 Preparing for internship / junior developer roles
+### 👋 About Me
+- 🎓 IT undergraduate at **SLIIT** with a strong interest in full-stack development  
+- 💻 Build real-world web applications using **React** and **Spring Boot**  
+- 🧠 Focused on clean code, scalability, and problem-solving  
+- 🚀 Actively seeking **internship / junior developer opportunities**
 
 ---
 
-🧠 Core Strengths
+### 🚧 Currently Building
+- 🔹 Full-stack applications with **React + Spring Boot**
+- 🔹 RESTful APIs with proper validation and security practices
+- 🔹 Database-driven systems using **MySQL** and **MongoDB**
+- 🔹 Improving **system design** and **backend architecture**
+---
+### 🧠 What I’m Good At
+- Designing and building **end-to-end web applications**
+- Developing **REST APIs** and integrating frontend & backend
+- Working with **relational and NoSQL databases**
+- Collaborating using **Git & GitHub**
+- Learning new technologies quickly and effectively
 
-Full-Stack Web Development
-
-REST API Design & Integration
-
-Database Modeling (MySQL, MongoDB)
-
-Version Control & Team Collaboration
-
-Writing clean, maintainable code
+---
+### 🚀 Developer Mindset
+- Write code that is **readable, maintainable, and scalable**
+- Prefer **learning by building** over just tutorials
+- Value consistency, discipline, and continuous improvement
+- Believe small daily progress leads to big results
 
 ---
 
