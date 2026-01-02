@@ -38,14 +38,13 @@ const user = {
 
 <div align="center">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-
+       src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" />
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&cache_seconds=21600" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elladeniya-dev&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=elladeniya-dev&theme=radical&hide_border=true" />
 </div>
 
 <h3 align="center">🐍 CONTRIBUTION GRID</h3> <p align="center"> 🟣 <b>The snake grows as I code daily</b><br/> <i>1 square = 1 active day</i> </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> </picture> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:8A2BE2&height=100&section=footer" /> </div>
