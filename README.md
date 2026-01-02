@@ -27,6 +27,3 @@ const user = {
   currentFocus: "Building scalable full-stack applications",
   funFact: "I turn coffee into code ☕"
 };
-<h3 align="center">🛠️ ARSENAL</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=js,react,java,spring,php,html,css,mysql,mongodb,git,vscode,postman,docker&theme=dark" /> </div>
-<h3 align="center">📊 PERFORMANCE METRICS</h3> <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=elladeniya-dev&theme=radical&hide_border=true" /> </div>
-<h3 align="center">🐍 CONTRIBUTION GRID</h3> <div align="center"> <img src="https://github.com/elladeniya-dev/elladeniya-dev/blob/output/github-contribution-grid-snake.svg" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:8A2BE2&height=100&section=footer" /> </div> ```
