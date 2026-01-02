@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FF99&height=100&section=header&text=Welcome%20to%20the%20Grid&fontSize=25&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FF99&height=100&section=header&text=Architecting%20Scalable%20Systems&fontSize=25&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -58,17 +58,14 @@ const user = {
 
 <h3 align="center">📊 PERFORMANCE METRICS</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2" height="180" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99" height="180" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/elladeniya-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/elladeniya-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99" height="180" alt="Top Languages" />
+  </a>
 </div>
+
 
 <br />
 
