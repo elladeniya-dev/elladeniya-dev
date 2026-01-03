@@ -7,6 +7,15 @@
 </div>
 
 <div align="center">
+<a href="#">
+    <img src="./sri-lanka.gif" 
+         height="28" 
+         title="Made in Sri Lanka 🇱🇰" 
+         alt="Sri Lanka Flag"
+         style="border-radius: 4px; vertical-align: middle;" />
+  </a>
+  <img src="https://img.shields.io/badge/PROUD%20TO%20BE-SRI%20LANKAN-8D153A?style=for-the-badge&labelColor=FFBE29&logoColor=000000" height="28" />
+  
   <a href="https://www.linkedin.com/in/gividuelladeniya/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -19,14 +28,6 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-<a href="#">
-    <img src="./sri-lanka.gif" 
-         height="28" 
-         title="Made in Sri Lanka 🇱🇰" 
-         alt="Sri Lanka Flag"
-         style="border-radius: 4px; vertical-align: middle;" />
-  </a>
-  <img src="https://img.shields.io/badge/PROUD%20TO%20BE-SRI%20LANKAN-8D153A?style=for-the-badge&labelColor=FFBE29&logoColor=000000" height="28" />
 </div>
 
 <br />
