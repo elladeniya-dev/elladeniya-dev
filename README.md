@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://en.wikipedia.org/wiki/Sri_Lanka">
-    <img src="https://media.tenor.com/k_X6sS0VlWAAAAAi/sri-lanka-flag.gif" 
+  <a href="#">
+    <img src="./sri-lanka.gif" 
          height="28" 
          title="Made in Sri Lanka 🇱🇰" 
          alt="Sri Lanka Flag"
