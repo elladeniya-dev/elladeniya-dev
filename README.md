@@ -19,12 +19,12 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-<a href="https://en.wikipedia.org/wiki/Sri_Lanka">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.gif" 
+<a href="#">
+    <img src="./Sri-Lanka.gif" 
          height="28" 
-         width="50"
+         title="Made in Sri Lanka 🇱🇰" 
          alt="Sri Lanka Flag"
-         style="border-radius: 4px; vertical-align: middle; object-fit: cover;" />
+         style="border-radius: 4px; vertical-align: middle;" />
   </a>
 </div>
 
