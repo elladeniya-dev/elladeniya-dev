@@ -58,12 +58,7 @@ const user = {
 
 <h3 align="center">📊 PERFORMANCE METRICS</h3>
 <div align="center">
-  <a href="https://github.com/elladeniya-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99&icon_color=8A2BE2" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/elladeniya-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elladeniya-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF99" height="180" alt="Top Languages" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elladeniya-dev&theme=radical" alt="GitHub Stats" />
 </div>
 
 
