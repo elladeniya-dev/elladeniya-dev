@@ -16,7 +16,9 @@
   <a href="https://github.com/elladeniya-dev">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://media.tenor.com/k_X6sS0VlWAAAAAi/sri-lanka-flag.gif" height="28" style="border-radius: 4px; vertical-align: middle;" alt="Sri Lanka" />
+  <a href="#">
+    <img src="https://media.tenor.com/k_X6sS0VlWAAAAAi/sri-lanka-flag.gif" height="28" style="border-radius: 4px; vertical-align: middle; border: 1px solid #333;" alt="Sri Lanka" />
+  </a>
 </div>
 
 <br />
