@@ -26,6 +26,7 @@
          alt="Sri Lanka Flag"
          style="border-radius: 4px; vertical-align: middle;" />
   </a>
+  <img src="https://img.shields.io/badge/PROUD%20TO%20BE-SRI%20LANKAN-8D153A?style=for-the-badge&labelColor=EB7400" height="28" />
 </div>
 
 <br />
