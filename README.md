@@ -66,6 +66,15 @@ const user = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,vue,java,spring,cs,dotnet,php,html,css,mysql,mongodb,git,vscode,postman,docker,linux&theme=dark" alt="My Skills" />
 </div>
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=elladeniya-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</div>
+
 
 <br />
 
