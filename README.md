@@ -20,7 +20,7 @@
   </a>
   
 <a href="#">
-    <img src="./Sri-Lanka.gif" 
+    <img src="./sri-lanka.gif" 
          height="28" 
          title="Made in Sri Lanka 🇱🇰" 
          alt="Sri Lanka Flag"
