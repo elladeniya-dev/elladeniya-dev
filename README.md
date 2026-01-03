@@ -66,6 +66,7 @@ const user = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,vue,java,spring,cs,dotnet,php,html,css,mysql,mongodb,git,vscode,postman,docker,linux&theme=dark" alt="My Skills" />
 </div>
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
@@ -75,7 +76,7 @@ const user = {
   />
 </div>
 
-
+---
 <br />
 
 <h3 align="center">📊 PERFORMANCE METRICS</h3>
@@ -86,6 +87,7 @@ const user = {
 
 <br />
 
+---
 <h3 align="center">🐍 CONTRIBUTION GRID</h3> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> </picture> </div>
 
 <div align="center">
