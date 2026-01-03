@@ -16,6 +16,7 @@
   <a href="https://github.com/elladeniya-dev">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://media.tenor.com/k_X6sS0VlWAAAAAi/sri-lanka-flag.gif" height="28" style="border-radius: 4px; vertical-align: middle;" alt="Sri Lanka" />
 </div>
 
 <br />
@@ -25,6 +26,7 @@
 ```javascript
 const user = {
   name: "Gividu Elladeniya",
+  location: "Colombo, Sri Lanka 🇱🇰",
   role: "Intern @ Ministry of Finance | Undergraduate",
   code: ["JavaScript", "Java", "C#", "PHP"],
   technologies: {
