@@ -183,6 +183,20 @@ I'm open to learning opportunities, collaboration, and building meaningful proje
 
 </div>
 
+---
+
+<h3 align="center">🌐 PORTFOLIO</h3>
+
+<div align="center">
+
+🚀 Explore my projects and work  
+
+🔗 <a href="https://your-portfolio-link.com" target="_blank"><b>Visit My Portfolio</b></a>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:8A2BE2&height=100&section=footer&text=Keep%20Learning.%20Keep%20Building.&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Wave" />
 
