@@ -126,13 +126,6 @@ const gividu = {
   <img src="https://img.shields.io/badge/DATABASE-MySQL%2FMongoDB-FF6B9D?style=for-the-badge&labelColor=1a1a2e&logo=database" />
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elladeniya-dev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elladeniya-dev&theme=radical" />
-</div>
-
 ---
 
 ## 🎯 Focus Areas
