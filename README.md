@@ -191,7 +191,7 @@ I'm open to learning opportunities, collaboration, and building meaningful proje
 
 🚀 Explore my projects and work  
 
-🔗 <a href="https://your-portfolio-link.com" target="_blank"><b>Visit My Portfolio</b></a>
+🔗 <a href="https://elladeniyadev.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
 
 </div>
 
