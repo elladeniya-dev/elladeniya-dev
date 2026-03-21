@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=⚡+GIVIDU+ELLADENIYA+⚡;FULL+STACK+ARCHITECT;CYBERSECURITY+INNOVATOR;SCALING+GOV-TECH+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=⚡+GIVIDU+ELLADENIYA+⚡;FULL+STACK+DEVELOPER;BUILDING+WEB+APPLICATIONS;ALWAYS+LEARNING" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FF99,100:00D4FF&height=120&section=header&text=Building%20Scalable%20%7C%20Thinking%20Global%20%7C%20Coding%20Fearless&fontSize=28&fontColor=ffffff&animation=fadeIn&customizationId=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FF99,100:00D4FF&height=120&section=header&text=Building%20Clean%20%7C%20Learning%20Daily%20%7C%20Coding%20Consistently&fontSize=28&fontColor=ffffff&animation=fadeIn&customizationId=1" />
 </div>
 
 <div align="center">
@@ -27,7 +27,6 @@
   <a href="https://github.com/elladeniya-dev">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
 </div>
 
 <br />
@@ -38,42 +37,46 @@
 const user = {
   name: "Gividu Elladeniya",
   location: "Colombo, Sri Lanka 🇱🇰",
-  role: "Intern @ Ministry of Finance | Undergraduate",
+  role: "Undergraduate Developer",
   code: ["JavaScript", "Java", "C#", "PHP"],
   technologies: {
     frontend: ["Vue.js", "React", "Tailwind"],
     backend: ["Spring Boot", "Node.js", ".NET"],
     database: ["MySQL", "MongoDB"]
   },
-  current_focus: "Building Scalable Gov-Tech Systems & Cybersecurity",
-  fun_fact: "I reverse engineer apps just to see how they tick."
+  current_focus: "Improving full-stack development and system design skills",
+  fun_fact: "I like exploring how systems work behind the scenes."
 };
 ```
+
 ---
 
 ## 🌍 About The Developer
 
-I'm a **full-stack architect** transforming complex challenges into elegant, scalable solutions. Currently architecting gov-tech systems at the **Ministry of Finance** in Colombo, while obsessing over cybersecurity and system design. I believe in code that's not just functional—it's beautiful, secure, and built to last.
+I'm an undergraduate developer focused on building clean and reliable web applications.
+I enjoy working across both frontend and backend, learning how different parts of a system connect and scale.
 
-**Philosophy:** *"Great software is invisible—users never see the engineering that makes it work."*
+I'm particularly interested in **full-stack development, system design, and writing maintainable code**.
+
+**Philosophy:** *"Keep things simple, clear, and continuously improving."*
 
 ```javascript
 const gividu = {
   location: "Colombo, Sri Lanka 🇱🇰",
-  role: "Intern → System Architect | Undergraduate Developer",
-  mission: "Building secure, scalable systems that impact millions",
-  passion: "Reverse-engineering the web, cybersecurity, distributed systems",
+  role: "Undergraduate Developer",
+  mission: "To grow as a well-rounded full-stack developer",
+  passion: "Web development, problem solving, learning new technologies",
   
   hardSkills: {
     languages: ["JavaScript", "Java", "C#", "PHP", "SQL"],
     frontend: ["React", "Vue.js", "Tailwind CSS", "HTML5"],
     backend: ["Spring Boot", "Node.js", ".NET Core", "REST APIs"],
-    databases: ["MySQL", "MongoDB", "Redis"],
-    devOps: ["Docker", "Git", "Linux", "CI/CD"],
+    databases: ["MySQL", "MongoDB"],
+    devOps: ["Git", "Linux", "Docker (basic)"],
   },
   
-  softSkills: ["System Design", "Team Leadership", "Problem Solving", "Rapid Learning"],
-  currentlyExploring: ["Microservices", "Cloud Architecture", "Security Protocols"],
+  softSkills: ["Problem Solving", "Adaptability", "Continuous Learning"],
+  currentlyExploring: ["System Design", "Backend Architecture", "Best Practices"],
 };
 ```
 
@@ -81,39 +84,32 @@ const gividu = {
 
 ## 🚀 What Sets Me Apart
 
-| ⚡ Fast | 🛡️ Secure | 📈 Scalable | 🎯 Focused |
-|:---|:---|:---|:---|
-| Ship features without compromise | Security-first architecture | Design systems for millions | Execute with precision |
-| Rapid prototyping & iteration | Penetration testing mindset | Async, distributed systems | Results-driven execution |
-| Quick problem resolution | OWASP compliance | Microservices patterns | Goal-oriented development |
+| ⚡ Consistent              | 🧠 Curious                       | 📈 Growing             | 🎯 Focused                  |
+| :------------------------ | :------------------------------- | :--------------------- | :-------------------------- |
+| Build and learn regularly | Always exploring how things work | Improving step by step | Focused on practical skills |
+| Practice through projects | Learn by doing                   | Open to feedback       | Goal-oriented mindset       |
 
 ---
 
 ## 🧠 Core Competencies
 
 ### 🎨 Frontend Development
-**Creating fluid, responsive experiences** with modern frameworks
-- Advanced component architecture & state management
-- Performance optimization & accessibility
-- Interactive UIs that delight users
 
-### 🔧 Backend Engineering
-**Building robust APIs** that power scalable applications
-- RESTful & microservices architecture
-- Database optimization & query performance
-- Authentication & security protocols
+* Building responsive and user-friendly interfaces
+* Working with modern frameworks like React and Vue
+* Styling with Tailwind CSS
 
-### 🛡️ Cybersecurity & System Security
-**Protecting what matters** through secure-by-design principles
-- Vulnerability assessment & penetration testing
-- Security architecture & threat modeling
-- Encryption & secure authentication mechanisms
+### 🔧 Backend Development
 
-### 💾 Data Architecture
-**Making data work for you**
-- Schema design & normalization
-- Query optimization & indexing strategies
-- NoSQL & relational database expertise
+* Developing REST APIs
+* Working with Spring Boot, Node.js, and .NET
+* Handling authentication and basic backend logic
+
+### 💾 Databases
+
+* Designing and managing relational databases
+* Working with MySQL and MongoDB
+* Writing efficient queries
 
 ---
 
@@ -121,14 +117,13 @@ const gividu = {
 
 <h3 align="center">🛠️ TECH ARSENAL</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,java,spring,cs,dotnet,php,nodejs,html,css,mysql,mongodb,redis,git,github,docker,linux,vscode,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,vue,java,spring,cs,dotnet,php,nodejs,html,css,mysql,mongodb,git,github,docker,linux,vscode,postman&theme=dark" alt="Tech Stack" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/FRONTEND-React%2FVue%2FTailwind-00FF99?style=for-the-badge&labelColor=1a1a2e&logo=javascript" />
   <img src="https://img.shields.io/badge/BACKEND-Spring%2FNode%2F.NET-8A2BE2?style=for-the-badge&labelColor=1a1a2e&logo=server" />
-  <img src="https://img.shields.io/badge/DATABASE-MySQL%2FMongo%2FRedis-FF6B9D?style=for-the-badge&labelColor=1a1a2e&logo=database" />
-  <img src="https://img.shields.io/badge/DEVOPS-Docker%2FLinux%2FGIT-00D4FF?style=for-the-badge&labelColor=1a1a2e&logo=docker" />
+  <img src="https://img.shields.io/badge/DATABASE-MySQL%2FMongoDB-FF6B9D?style=for-the-badge&labelColor=1a1a2e&logo=database" />
 </div>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
@@ -142,13 +137,12 @@ const gividu = {
 
 ---
 
-## 🎯 Key Achievements
+## 🎯 Focus Areas
 
-🥇 **Ministry of Finance Internship** — Building gov-tech systems handling mission-critical finance operations  
-🔒 **Security-First Developer** — Multiple successful penetration tests & vulnerability remediation  
-⚙️ **Scalable Architecture Design** — Designed systems supporting 100K+ concurrent users  
-🚀 **Fast Delivery** — Ship production-grade code on aggressive timelines without cutting corners  
-📚 **Continuous Learner** — Master new frameworks & technologies in weeks, not months  
+* Improving full-stack development skills
+* Writing clean and maintainable code
+* Learning system design fundamentals
+* Building practical projects
 
 ---
 
@@ -164,35 +158,36 @@ const gividu = {
 
 ---
 
-<h3 align="center">🐍 CONTRIBUTION GRID</h3> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> </picture> </div>
+<h3 align="center">🐍 CONTRIBUTION GRID</h3> 
+<div align="center"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> 
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/output/github-contribution-grid-snake.svg" /> 
+  </picture> 
+</div>
 
 ---
 
 ## 💼 Let's Collaborate
 
-I'm always excited to work on challenging projects that push the boundaries of what's possible. Whether you need:
-- **Full-stack solutions** that scale  
-- **Security architecture** & threat modeling  
-- **System design mentorship** & code reviews  
-- **Technical consulting** for gov-tech or enterprise projects  
+I'm open to learning opportunities, collaboration, and building meaningful projects.
 
 <div align="center">
 
 ### 📬 Reach Me Worldwide
 
-[![LinkedIn Badge](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gividuelladeniya/)](https://www.linkedin.com/in/gividuelladeniya/)
-[![Email Badge](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gividuelladeniya@gmail.com)](mailto:gividuelladeniya@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/elladeniya-dev)](https://github.com/elladeniya-dev)
-
-**Let's build something extraordinary together.** 🚀
+[![LinkedIn Badge](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&link=https://www.linkedin.com/in/gividuelladeniya/)](https://www.linkedin.com/in/gividuelladeniya/)
+[![Email Badge](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&link=mailto\:gividuelladeniya@gmail.com)](mailto:gividuelladeniya@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white\&link=https://github.com/elladeniya-dev)](https://github.com/elladeniya-dev)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:8A2BE2&height=100&section=footer&text=Keep%20Coding.%20Stay%20Secure.%20Think%20Global.&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Wave" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:8A2BE2&height=100&section=footer&text=Keep%20Learning.%20Keep%20Building.&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer Wave" />
+
   <br />
-  
-  **Made with ❤️ in Colombo, Sri Lanka 🇱🇰**  
-  *Architecting the future, one commit at a time.*
+
+**Made with ❤️ in Colombo, Sri Lanka 🇱🇰**
+
 </div>
