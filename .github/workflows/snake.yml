@@ -33,7 +33,7 @@ jobs:
           github_user_name: elladeniya-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=39FF14&color_dots=0d1117,0e4429,006d32,26a641,00ff41
+            dist/github-contribution-grid-snake-dark.svg?color_snake=7aa2f7&color_dots=1a1b26,394b70,3d59a1,7aa2f7,bb9af7
 
       # Push generated files to output branch
       - name: Push Snake to Output Branch
