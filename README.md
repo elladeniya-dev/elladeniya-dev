@@ -19,115 +19,19 @@
 
 <br/>
 
-I'm a full-stack developer in **Colombo, Sri Lanka** — finishing my BSc (Hons) in IT at **SLIIT**
-while working as a full-stack intern and shipping freelance sites that real businesses run on.
+```ts
+const gividu = {
+  location : "Colombo, Sri Lanka 🇱🇰",
+  studying : "BSc (Hons) IT @ SLIIT",
+  stack    : ["React", "Next.js", "Vue", "Spring Boot", "Node.js"],
+  data     : ["MySQL", "MongoDB"],
+  mobile   : ["Kotlin", "Android SDK"],
+  learning : ["System Design", "Cloud", "Architecture"],
+};
+```
 
-I like building things that feel unusually good to use: a portfolio that boots like Windows XP,
-an image pipeline that shaves 70% off a folder of assets, an Android utility that fixes an
-annoyance nobody else bothered to fix. Right now I'm going deeper on **system design, cloud, and architecture**.
-
-<br/>
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🪟 [Windows 7 Portfolio](https://github.com/elladeniya-dev/windows7-ui-portfolio)
-
-My portfolio, rebuilt as a Windows 7 desktop — Aero glass, a working Start menu, draggable windows. Click anywhere to boot it.
-
-`Next.js` `TypeScript` `Tailwind`
-
-**[→ Boot it up](https://windows7-ui-portfolio.vercel.app)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ [Windows XP Portfolio](https://github.com/elladeniya-dev/winxp-portfolio)
-
-The Luna-era predecessor — a fully interactive Windows XP desktop with window management and global state, built as a developer portfolio.
-
-`Next.js` `TypeScript` `Zustand`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 [HarmoniX](https://github.com/elladeniya-dev/music-collaboration)
-
-Enterprise-grade platform for musicians and producers — part freelance marketplace (buy/sell audio services, job listings), part social collaboration hub.
-
-`Node.js` `React` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [Apexaura Storefront](https://github.com/elladeniya-dev/apexaura-storefront)
-
-High-performance e-commerce + corporate site with a dynamic catalog for herbal products, news portal, and member auth.
-
-`Next.js 14` `App Router` `Tailwind`
-
-**[→ Live demo](https://apexaura-storefront.vercel.app)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗜️ [AVIF Batch Crusher](https://github.com/elladeniya-dev/avif-batch-crusher)
-
-Local batch image converter built on `libavif` — up to **70% smaller files** with no visible quality loss. No uploads, no cloud, just the CLI.
-
-`Node.js` `libavif`
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [Android HDR Blocker](https://github.com/elladeniya-dev/android-hdr-blocker)
-
-Native Android utility that kills the blinding brightness spike when HDR video autoplays in Instagram and Facebook.
-
-`Java` `Android SDK`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More things I've built</b></summary>
-
-<br/>
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[Property Management Platform](https://property-management-platform-three.vercel.app)** | Real estate browsing & listing management with advanced filtering | `TypeScript` `Next.js` |
-| **[MixMind LMS](https://github.com/elladeniya-dev/mixmind-lms)** | Headless LMS engineered for low-resource cPanel hosting | `PHP` `MySQL` |
-| **[MTIT Microservices](https://github.com/elladeniya-dev/mtit-microservices)** | Microservice backend with API gateway + Swagger docs | `Python` `Docker` |
-| **[Supplier–Customer Hub](https://github.com/elladeniya-dev/supplier-customer-hub)** | Inventory-aware order management for fashion wholesale | `PHP` `MySQL` `Docker` |
-| **[FB Activity Cleaner](https://github.com/elladeniya-dev/delete-my-activity-for-facebook)** | Manifest V3 extension for bulk-deleting your Facebook activity log | `Chrome MV3` `JS` |
-| **[Trend Analysis Engine](https://github.com/elladeniya-dev/trend-analysis-engine)** | Fashion trend forecasting from scraped retail data | `Python` `ML` |
-| **[JH Agency](https://jh-agency.vercel.app)** | Interactive agency site with motion-driven storytelling | `Next.js` `Framer Motion` |
-| **[Lions Colombo Ambassadors](https://github.com/elladeniya-dev/lions-colombo-ambassadors-site)** | Club site showcasing community initiatives and pro-bono volunteering | `JavaScript` `Vercel` |
-
-</details>
-
-<br/>
-
-## Shipped for Clients
-
-Real sites, real domains, running in production today.
-
-<div align="center">
-
-[![ashanmkandambi.lk](https://img.shields.io/badge/ashanmkandambi.lk-1a1b26?style=for-the-badge&logo=astro&logoColor=BB9AF7)](https://ashanmkandambi.lk)
-[![dinushkacosta.lk](https://img.shields.io/badge/dinushkacosta.lk-1a1b26?style=for-the-badge&logo=astro&logoColor=7AA2F7)](https://dinushkacosta.lk/)
-[![mixmind.lk](https://img.shields.io/badge/mixmind.lk-1a1b26?style=for-the-badge&logo=astro&logoColor=7DCFFF)](https://mixmind.lk/)
-
-</div>
+Mostly building web apps, occasionally native Android, and lately anything that
+lets me poke at system design. Pin-worthy stuff is pinned below 👇
 
 <br/>
 
@@ -147,13 +51,13 @@ Real sites, real domains, running in production today.
 
 <br/>
 
-## By the Numbers
+## Stats
 
 <!--
-  Rendered by .github/workflows/metrics.yml (lowlighter/metrics) and committed
-  straight into this repo — same self-hosted pattern as the snake below. This is
-  deliberate: the public github-readme-stats instance has been paused since
-  Jan 2026, so anything pointing at it shows a broken image. This never breaks.
+  The metrics image below is rendered by .github/workflows/metrics.yml
+  (lowlighter/metrics) and committed into this repo — same self-hosted pattern as
+  the snake. Deliberate: the public github-readme-stats instance has been paused
+  since Jan 2026, so anything pointing at it renders a broken image.
   Requires a repo secret named METRICS_TOKEN.
 -->
 
@@ -185,15 +89,6 @@ Real sites, real domains, running in production today.
 
 <br/>
 
----
-
 <div align="center">
-
-**Open to full-stack roles, internships, and freelance work.**
-
-<a href="mailto:gividuelladeniya@gmail.com">gividuelladeniya@gmail.com</a> &nbsp;·&nbsp;
-<a href="https://elladeniyadev.vercel.app/">elladeniyadev.vercel.app</a>
-
 <sub>Built in Colombo, Sri Lanka <img src="./sri-lanka.gif" height="11" alt="🇱🇰" /></sub>
-
 </div>
