@@ -54,11 +54,10 @@ lets me poke at system design. Pin-worthy stuff is pinned below 👇
 ## Stats
 
 <!--
-  The metrics image below is rendered by .github/workflows/metrics.yml
-  (lowlighter/metrics) and committed into this repo — same self-hosted pattern as
-  the snake. Deliberate: the public github-readme-stats instance has been paused
-  since Jan 2026, so anything pointing at it renders a broken image.
-  Requires a repo secret named METRICS_TOKEN.
+  Note on services: github-readme-stats has been paused by its owner since Jan 2026,
+  so anything pointing at github-readme-stats.vercel.app renders a broken image.
+  The cards below use github-profile-summary-cards + streak-stats, both live and
+  token-free. Verified working before committing.
 -->
 
 <div align="center">
@@ -67,11 +66,17 @@ lets me poke at system design. Pin-worthy stuff is pinned below 👇
 
 <br/><br/>
 
-<img src="https://github-trophies.vercel.app/?username=elladeniya-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elladeniya-dev&theme=tokyonight" alt="Stats" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elladeniya-dev&theme=tokyonight" alt="Top languages by repo" height="200" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elladeniya-dev&theme=tokyonight" alt="Most committed languages" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elladeniya-dev&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="200" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/elladeniya-dev/elladeniya-dev/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=elladeniya-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 
 </div>
 
