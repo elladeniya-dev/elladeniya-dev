@@ -4,16 +4,7 @@
 
 <br/>
 
-<a href="https://elladeniyadev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=7DCFFF" alt="Portfolio" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/gividuelladeniya/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" />
-</a>&nbsp;
-<a href="mailto:gividuelladeniya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=BB9AF7" alt="Email" />
-</a>&nbsp;
-<img src="./sri-lanka.gif" height="28" title="Made in Sri Lanka 🇱🇰" alt="Sri Lanka" />
+<a href="https://elladeniyadev.vercel.app/"><img height="28" align="middle" src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=7DCFFF" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/gividuelladeniya/"><img height="28" align="middle" src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>&nbsp;<a href="mailto:gividuelladeniya@gmail.com"><img height="28" align="middle" src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=BB9AF7" alt="Email" /></a>&nbsp;<img src="./sri-lanka.gif" height="28" align="middle" title="Made in Sri Lanka 🇱🇰" alt="Sri Lanka" />
 
 </div>
 
@@ -95,5 +86,5 @@ lets me poke at system design. Pin-worthy stuff is pinned below 👇
 <br/>
 
 <div align="center">
-<sub>Built in Colombo, Sri Lanka <img src="./sri-lanka.gif" height="11" alt="🇱🇰" /></sub>
+<sub>Built in Colombo, Sri Lanka <img src="./sri-lanka.gif" height="11" align="middle" alt="🇱🇰" /></sub>
 </div>
